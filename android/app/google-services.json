@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567483141553",
+    "project_id": "dawayee-app",
+    "storage_bucket": "dawayee-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567483141553:android:588d6c5e1c9a60da37c190",
+        "android_client_info": {
+          "package_name": "com.example.medication_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9_Uy7_fY2MzRCC1v6xDCMOzVSBEsvh3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
